@@ -5,7 +5,7 @@
 
 - 🌱 I'm Discord and Psd Project Developments Continue**
 
-- 👨‍💻 All of my projects are available at [github/kadirlegn](https://github.com/kadirlegn)
+- 👨‍💻 All of my projects are available at [github/kadirroot](https://github.com/root)
 
 - 💬 Ask me about **Software, Electronic Circuits, Designer**
 
